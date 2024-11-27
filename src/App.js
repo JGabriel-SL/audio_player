@@ -12,13 +12,13 @@ function App() {
           <div style={styles.containerDetails}>
               <h3>Equipe: </h3>
               <div style={styles.containerMembers}>
-                <span>Ana Luisa</span>
+                <span>Ana Luiza</span>
                 <span>Ana Patrícia</span>
-                <span>Mayra Lavigne</span>
+                <span>Mayra Lavinne</span>
                 <span>Jefferson</span>
-                <span>Geovana Hester</span>
+                <span>Geovanna Esther</span>
                 <span>Paulo Adryan</span>
-                <span>Rebeca Lima</span>
+                <span>Rebeca Souza</span>
               </div>
           </div>
         </div>
