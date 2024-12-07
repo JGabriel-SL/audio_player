@@ -6,18 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div style={styles.container}>
-          <img src="/escravidao.jpg" alt="escravidao"  style={styles.image}/>
-          <h2 style={styles.title}>Projeto 48: A perpecussão da reforma Dantas no Brasil</h2>
+          <img src="/ondas.png" alt="ondas"  style={styles.image}/>
+          <h2 style={styles.title}>Trabalho de Física: Ondas</h2>
           <AudioPlayer />
           <div style={styles.containerDetails}>
               <h3>Equipe: </h3>
               <div style={styles.containerMembers}>
                 <span>Ana Luiza</span>
-                <span>Ana Patrícia</span>
-                <span>Mayra Lavinne</span>
-                <span>Jefferson</span>
+                 <span>Mayra Lavinne</span>
                 <span>Geovanna Esther</span>
-                <span>Paulo Adryan</span>
                 <span>Rebeca Souza</span>
               </div>
           </div>

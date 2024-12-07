@@ -44,7 +44,7 @@ const AudioPlayer = () => {
     <div style={styles.container}>
       <audio
         ref={audioRef}
-        src="/audio/audio_geral.mp3"
+        src="/audio/audio-trabalho-fisica.mp3"
         onTimeUpdate={handleTimeUpdate}
         onLoadedMetadata={handleLoadedMetadata}
       />
