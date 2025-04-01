@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div style={styles.container}>
-          <img src="/ondas.png" alt="ondas"  style={styles.image}/>
-          <h2 style={styles.title}>Trabalho de Física: Ondas</h2>
+          <img src="/presos.jpg" alt="ondas"  style={styles.image}/>
+          <h2 style={styles.title}>Trabalho de Geografia: Direitos da População Carcerária</h2>
           <AudioPlayer />
           <div style={styles.containerDetails}>
               <h3>Equipe: </h3>
@@ -16,6 +16,8 @@ function App() {
                  <span>Mayra Lavinne</span>
                 <span>Geovanna Esther</span>
                 <span>Rebeca Souza</span>
+                <span>Ana Rebeca</span>
+                <span>Paulo Adryan</span>
               </div>
           </div>
         </div>
